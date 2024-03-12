@@ -13,3 +13,13 @@
 .carousel-indicators img {
   max-width: 100px;
 }
+
+.news{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
+  margin-bottom: 5px;
+  max-resolution: 5px;
+}
+.news a{
+  text-decoration: none;
+  color: brown;
+}
