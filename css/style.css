@@ -16,8 +16,8 @@
 
 .news{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
-  margin-bottom: 5px;
-  
+ 
+  height: 3px;
   font-size: 16px;
 }
 .news a{
@@ -28,4 +28,34 @@
   background-color: #891652 !important;
   color: aliceblue;
   padding: 5px;
+}
+p{
+  padding: 5px;
+  line-height: 1.8;
+  
+}
+h1{
+  padding: 5px;
+}
+
+li{
+  display: inline-block;
+  line-height: 2;
+}
+.img_container{
+  background-color:blue;
+  width: 40%;
+  float: right;
+  margin-bottom: -20px;
+
+}
+.details_contaner{
+  width: 50%;
+  background-color: aqua;
+}
+.button_area{
+  text-align: center;
+}
+a{
+  text-decoration: none;
 }
