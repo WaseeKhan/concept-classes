@@ -17,9 +17,15 @@
 .news{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
   margin-bottom: 5px;
-  max-resolution: 5px;
+  
+  font-size: 16px;
 }
 .news a{
   text-decoration: none;
   color: brown;
+}
+.footer{
+  background-color: #891652 !important;
+  color: aliceblue;
+  padding: 5px;
 }
